@@ -1,0 +1,39 @@
+
+
+body{
+	background-color:#CEF6E3;
+}
+canvas{
+	border:5px solid #243B0B;
+	background-color:#82FA58;
+}
+#downwala{
+	width:1205px;
+	height:40px;
+	position:relative;
+	background-color:#BEF781;
+	border:1px solid #243B0B;
+	margin-top: 7px;
+}
+#scre{
+	position:absolute;
+	right:35px;
+	top:8px;
+	font-family: courier;
+	font-size:20px;
+	vertical-align: middle;
+}
+#names{
+	position:absolute;
+	top:12px;
+	left:35px;
+	font-family: courier;
+}
+#code{
+	text-align: center;
+	margin-top: 10px;
+	font-family: courier;
+}
+a:hover{
+	color:black;
+}
